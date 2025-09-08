@@ -11,54 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.C.S. in Computer Science, **University of Illinois Urbana–Champaign** (expected 2026)
+* B.S. in Computer Science, **National Taiwan University**, 2024
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024 – present: **Research Assistant, NTU**
+  * Focus on adversarial training and robust ML models
+  * Explored transferability of adversarial attacks across vision models
+* 2023 – 2024: **Course/Research Projects**
+  * Video editing with diffusion models (DRIVE) → fixed flickering in fast-motion scenes, beat SOTA methods (RAVE, ControlVideo, Videoshop)
+  * High-resolution image translation (Dense Normalization) → 1.86× faster, 1st place recognition
+  * Multimodal pipeline (ShotGMP) → matched GPT-4-level fluency/rhyme using fine-tuned Llama2-7B
+  * Autonomous driving with LLMs (Dilu framework) → achieved 100% success in zero-shot scenarios, top-20% ranking
+  * Kaggle Danceability → 1st out of 80+ teams
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming:** Python, C++, JavaScript  
+* **ML/AI Frameworks:** PyTorch, TensorFlow, scikit-learn, HuggingFace  
+* **Software/Tools:** Git, Docker, Linux, VS Code, LaTeX  
+* **Specialties:** Machine Learning, Computer Vision, Generative AI, Adversarial Training, Multimodal Systems
 
-Publications
+Service & Leadership
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Organized academic events and coding camps at NTU
+* Mentored peers in ML and CS coursework
+
+---
+
+*For a detailed project list, see my [Projects page](/projects/).*  

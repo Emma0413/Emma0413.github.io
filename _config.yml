@@ -22,7 +22,7 @@ repository               : "Emma0413/Emma0413.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.png" # filename of avatar image placed in /images/, e.g. "avatar.png"
+  avatar           : "profile.png" # filename of avatar image placed in /images/, e.g. "avatar.png"
   name             : "Yi-Ru (Emma) Wu"
   pronouns         : # example: "she/her"  
   bio              : "Software engineer focused on machine learning, computer vision. Experienced in designing scalable, high-impact applications."
