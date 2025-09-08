@@ -1,0 +1,18 @@
+---
+title: "Exploring LLM Capabilities in Autonomous Driving Simulation"
+excerpt: "Improved LLM-driven agent decision-making; 100% success in unfamiliar scenarios; top-20% project."
+collection: portfolio
+layout: single
+date: 2024-06-01
+header:
+  image: /images/projects/llm-driving-banner.jpg
+  overlay_filter: 0.2
+links:
+  - label: "Report"
+    url: "https://drive.google.com/file/d/1MmhrgXtxIxJoM9r7Vp0jRsliAg5dt-T6/view"
+---
+
+- Improved an **autonomous driving agent** using LLMs—prompt design + in-context learning.  
+- Achieved **100% success** in unfamiliar scenarios; ranked **top 20%**.
+
+**Skills:** Python, LLMs, Prompt Engineering, Simulation

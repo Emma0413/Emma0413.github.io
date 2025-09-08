@@ -1,7 +1,10 @@
 ---
 permalink: /
-title: "About Me"
+title: "About me"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 👋 Hi, I’m **Yi-Ru (Emma) Wu**, a Master’s student in **Computer Science at UIUC** (Fall 2025).  
@@ -17,7 +20,3 @@ I am preparing for roles in **Software Engineering (SWE)** and **ML Engineering*
 
 ### 🔹 Beyond Code
 I enjoy organizing and mentoring, having led academic events and workshops. Outside of tech, I love traveling and exploring new cuisines 🍜✈️.
-
----
-
-📄 [Download Resume](/files/Yi_Ru_Wu_CV.pdf) · 💻 [GitHub](https://github.com/Emma0413) · 🔗 [LinkedIn](https://linkedin.com/in/yiruwu3)
